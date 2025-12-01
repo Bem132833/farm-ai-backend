@@ -1,0 +1,6 @@
+{
+    "code-runner.showExecutionMessage": false,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
